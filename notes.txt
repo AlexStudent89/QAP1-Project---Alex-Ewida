@@ -1,0 +1,50 @@
+Notes for Blue Jay Bird HTML Page:
+
+1. Page Structure:
+   - This HTML file represents a webpage about the Blue Jay bird.
+   - It consists of a header, navigation menu, main content section, and footer.
+
+2. Navigation Menu:
+   - The navigation menu contains various links, including "Home," "Photos," "Videos," "Contact Us," "Map," "Explore," "About," "News,"
+   "Help," "Media," "Glossary," "Login," "Logout," "Donate," and "Search."
+
+3. Main Content:
+   - The main content section includes an article about the Blue Jay bird.
+   - The article contains text, images, and videos to provide information about the Blue Jay, its characteristics, habitat, and behavior.
+
+4. Styling:
+   - The page is styled using an external CSS file named "style.css."
+   - The navigation menu buttons change color to blue when hovered over due to CSS styles.
+   - Additional JavaScript functionality is added to change the color of specific text elements when the mouse hovers over them.
+
+5. External Resources:
+   - The page references external resources, including images (e.g., "Blue Jay Logo.png," "Blue jay Sitting 2.jpg," "Map of Blue Jays.jpg,"
+   "Blue jays outside.mp4," etc.) and audio (e.g., "Blue Jay Sound.mp3").
+
+6. JavaScript:
+   - JavaScript functionality for text color changes on hover is implemented using an external JavaScript file named "script.js."
+
+7. Authorship:
+   - The article is credited to "Alex Ewida."
+   - The page's footer includes a copyright notice for "2023 Alexander Ewida."
+   - I do not own the mp3 sound. I borrowed it.
+   - The Blue Jay mp3 sound was downloaded from this website: https://openverse.org/search/?q=the%20blue%20jay&license_type=commercial,modification
+   - I built the Logo on Photoshop.
+   - I took photos of the Blue Jays in my backyard: Blue Jay on owl statue 2.jpg, Blue jay Sitting 2.jpg, and Blue jay Eating 2.jpg. These photos are mine.
+   - I downloaded the eggs photo from https://www.inaturalist.org/taxa/8229-Cyanocitta-cristata
+   - I downloaded the Map image from https://www.allaboutbirds.org/guide/Blue_Jay/maps-range
+   
+
+8. Accessibility:
+   - The webpage is accessible and provides alternative text for images.
+
+10. Maintenance:
+    - I made sure the page's content and resources are current and accurate.
+
+11. Testing:
+    - I tested the webpage on different devices and browsers to ensure it is compatible.
+
+12. Documentation:
+    - I would say this was a bit tricky, but I worked my way through it and it was a very
+    good learning experience. I felt good about the finished product, and I think I could
+    handle a similar project in future.

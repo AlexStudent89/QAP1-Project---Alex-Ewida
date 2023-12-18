@@ -1,0 +1,127 @@
+/* Blue Jay Bird CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #007acc;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+header img {
+    max-width: 600px;
+    height: auto;
+    margin-top: 17px;
+    padding-bottom: 1px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-top: 1px;
+    padding-top: 1px;
+}
+
+nav {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#about {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    border-top: #007acc 1px solid;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 1px;
+}
+
+
+img {
+     margin: auto;
+    
+}
+
+video {
+    margin: auto;
+    align-content: center;
+
+}
+
+audio {
+    margin: auto;
+    align-content: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* The Menu Buttons */
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.menu li {
+    margin: 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: rgb(252, 251, 251); /* Default button color */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: color 0.3s ease; /* Transition color changes */
+}
+
+.menu a:hover {
+    color: rgb(99, 184, 253); /* Color change on hover */
+}
